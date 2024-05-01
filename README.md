@@ -30,8 +30,8 @@
 
 ### 结果
 
-当Learning Rate:0.1 Hidden Size:256 Regularization Strength:0.001 时模型性能最佳，结果如下：
-Validation Accuracy:86.65%	Test Accuracy:85.42%
+当Learning Rate:0.1 Hidden Size:256 Regularization Strength:0.001时模型性能最佳，
+结果为Validation Accuracy:86.65%	Test Accuracy:85.42%
 具体如下：
 | Learning Rate | Hidden Size | Regularization Strength | Validation Accuracy | Test Accuracy |
 |---------------|-------------|-------------------------|----------------------|---------------|
